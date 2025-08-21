@@ -1,6 +1,7 @@
 import CountdownTimer from '@/components/CountdownTimer';
 import ContactInfo from '@/components/ContactInfo';
 import { Plane } from 'lucide-react';
+import logoImage from '/vanshaviation-logo.png';
 
 const Index = () => {
   return (
@@ -24,7 +25,7 @@ const Index = () => {
           <div className="mb-8 flex justify-center">
             <div className="w-48 h-48 md:w-64 md:h-64 flex items-center justify-center bg-[#ffffff] rounded-full shadow-2xl animate-float">
               <img 
-                src="../../public/vanshaviation-logo.png" 
+                src={logoImage} 
                 alt="Vansh Aviation Academy Logo" 
                 className="w-40 h-40 md:w-52 md:h-52 object-contain"
               />
