@@ -16,11 +16,6 @@ const ContactInfo = () => {
       icon: Mail,
       label: "Email",
       value: "aviationacademyvansh@gmail.com"
-    },
-    {
-      icon: User,
-      label: "Director",
-      value: "Mr KK Singh kekda"
     }
   ];
 

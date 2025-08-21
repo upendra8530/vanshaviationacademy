@@ -22,8 +22,12 @@ const Index = () => {
         {/* Header Section */}
         <div className="text-center mb-16">
           <div className="mb-8 flex justify-center">
-            <div className="w-48 h-48 md:w-64 md:h-64 flex items-center justify-center bg-aviation-gold rounded-full shadow-2xl animate-float">
-              <Plane className="w-32 h-32 md:w-40 md:h-40 text-aviation-navy" />
+            <div className="w-48 h-48 md:w-64 md:h-64 flex items-center justify-center bg-[#ffffff] rounded-full shadow-2xl animate-float">
+              <img 
+                src="../../public/vanshaviation-logo.png" 
+                alt="Vansh Aviation Academy Logo" 
+                className="w-40 h-40 md:w-52 md:h-52 object-contain"
+              />
             </div>
           </div>
           
