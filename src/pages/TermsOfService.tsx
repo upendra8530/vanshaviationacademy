@@ -15,7 +15,7 @@ const TermsOfService = () => {
         </div>
 
         {/* Content */}
-        <div className="bg-white/80 rounded-lg p-8 shadow-aviation max-w-4xl">
+        <div className="bg-white/80 rounded-lg p-8 shadow-aviation max-w-4xl mx-auto">
           <div className="prose prose-aviation max-w-none">
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-aviation-navy mb-4">1. Aviation Training Services</h2>
