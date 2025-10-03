@@ -33,7 +33,7 @@ const Index = () => {
               <a href="#facilities" className="text-aviation-navy hover:text-aviation-gold transition-colors">Facilities</a>
               <a href="#testimonials" className="text-aviation-navy hover:text-aviation-gold transition-colors">Reviews</a>
               <a href="#contact" className="text-aviation-navy hover:text-aviation-gold transition-colors">Contact</a>
-              <a href="tel:+919208099344" className="bg-aviation-gold text-aviation-navy px-4 py-2 rounded-full font-semibold hover:bg-aviation-navy hover:text-aviation-gold transition-colors">
+              <a href="tel:+918853522657" className="bg-aviation-gold text-aviation-navy px-4 py-2 rounded-full font-semibold hover:bg-aviation-navy hover:text-aviation-gold transition-colors">
                 Call Now
               </a>
             </div>
@@ -57,7 +57,7 @@ const Index = () => {
                 <a href="#facilities" className="text-aviation-navy hover:text-aviation-gold transition-colors px-4" onClick={() => setIsMenuOpen(false)}>Facilities</a>
                 <a href="#testimonials" className="text-aviation-navy hover:text-aviation-gold transition-colors px-4" onClick={() => setIsMenuOpen(false)}>Reviews</a>
                 <a href="#contact" className="text-aviation-navy hover:text-aviation-gold transition-colors px-4" onClick={() => setIsMenuOpen(false)}>Contact</a>
-                <a href="tel:+919208099344" className="mx-4 bg-aviation-gold text-aviation-navy px-4 py-2 rounded-full font-semibold hover:bg-aviation-navy hover:text-aviation-gold transition-colors text-center">
+                <a href="tel:+918853522657" className="mx-4 bg-aviation-gold text-aviation-navy px-4 py-2 rounded-full font-semibold hover:bg-aviation-navy hover:text-aviation-gold transition-colors text-center">
                   Call Now
                 </a>
               </div>
@@ -103,10 +103,10 @@ const Index = () => {
                     Explore Courses
                   </a>
                   <a 
-                    href="tel:+919208099344" 
+                    href="tel:+918853522657" 
                     className="border-2 border-white bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-aviation-gold hover:text-aviation-navy transition-all duration-300 shadow-lg"
                   >
-                    Call Now: +91 9208099344
+                    Call Now: +91 8853522657
                   </a>
                 </div>
               </div>
@@ -428,8 +428,8 @@ const Index = () => {
                   © 2024 Vansh Aviation Academy. All rights reserved.
                 </p>
                 <div className="flex space-x-6 mt-4 md:mt-0">
-                  <a href="tel:+919208099344" className="text-aviation-gold hover:text-aviation-navy text-sm font-semibold">
-                    📞 +91 9208099344
+                  <a href="tel:+918853522657" className="text-aviation-gold hover:text-aviation-navy text-sm font-semibold">
+                    📞 +91 8853522657
                   </a>
                   <a href="mailto:aviationacademyvansh@gmail.com" className="text-aviation-gold hover:text-aviation-navy text-sm font-semibold">
                     ✉️ Email Us

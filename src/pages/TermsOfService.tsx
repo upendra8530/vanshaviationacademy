@@ -95,7 +95,7 @@ const TermsOfService = () => {
               <div className="bg-aviation-sky/10 p-4 rounded-lg">
                 <p className="text-aviation-navy font-semibold">Vansh Aviation Academy</p>
                 <p className="text-muted-foreground">2nd floor Ideal techno building behind konark hotel PU4 Vijay Nagar Indore</p>
-                <p className="text-muted-foreground">Phone: +91 9208099344</p>
+                <p className="text-muted-foreground">Phone: +91 8853522657</p>
                 <p className="text-muted-foreground">Email: aviationacademyvansh@gmail.com</p>
                 <p className="text-muted-foreground">Website: vanshaviationacademy.com</p>
               </div>
