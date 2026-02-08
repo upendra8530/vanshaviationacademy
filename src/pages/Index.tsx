@@ -106,7 +106,7 @@ const Index = () => {
                     href="tel:+918853522657" 
                     className="border-2 border-white bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-aviation-gold hover:text-aviation-navy transition-all duration-300 shadow-lg"
                   >
-                    Call Now: +91 9257204144
+                    Call Now: +91 9216359338
                   </a>
                 </div>
               </div>
@@ -429,7 +429,7 @@ const Index = () => {
                 </p>
                 <div className="flex space-x-6 mt-4 md:mt-0">
                   <a href="tel:+918853522657" className="text-aviation-gold hover:text-aviation-navy text-sm font-semibold">
-                    📞 +91 9257204144
+                    📞 +91 9216359338
                   </a>
                   <a href="mailto:aviationacademyvansh@gmail.com" className="text-aviation-gold hover:text-aviation-navy text-sm font-semibold">
                     ✉️ Email Us
